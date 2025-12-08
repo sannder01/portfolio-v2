@@ -1,1 +1,1 @@
-sm-portfolio-v2.vercel.app
+https://sm-portfolio-v2.vercel.app/
